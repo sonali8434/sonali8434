@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @sonali8434
+- 👀 I’m interested in coding developing new projects with exciting ideas...
+- 🌱 I’m currently learning javascript , dsa in c++, ...
+- 💞️ I’m looking to collaborate on development...
+
+<!---
+sonali8434/sonali8434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
