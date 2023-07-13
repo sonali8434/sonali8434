@@ -15,12 +15,22 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sonali8434&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sonali8434&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali8434&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/sonali8434">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonali8434&theme=radical&border=7F3FBF&background=0D1117" alt="Sonali's GitHub streak"/>
+  </a>
+</p>
 
---->
+<p align="center">
+  <a href="https://github.com/sonali8434">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonali8434&theme=radical" alt="Sonali's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/sonali8434"><img alt="Sonali's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sonali8434&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/sonali8434"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sonali8434&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 [![](https://visitcount.itsvg.in/api?id=Sonali8434&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
